@@ -69,3 +69,13 @@ To compute the area and the perimeter of a rectangle using its length and breadt
 ### **Theory**
 * **Area** is the total space inside the rectangle: $$Area = Length \times Breadth$$
 * **Perimeter** is the total distance around the rectangle: $$Perimeter = 2 \times (Length + Breadth)$$
+
+### **Steps**
+1. Input the length ($l$) and breadth ($b$).
+2. Convert both values to integers.
+3. Calculate Area ($l * b$).
+4. Calculate Perimeter ($2 * (l + b)$).
+5. Output both results.
+
+### **Conclusion**
+The program successfully implements multiple geometric calculations in a single script.
